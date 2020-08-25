@@ -1,0 +1,33 @@
+{
+  "end_point1": "/categories/",
+  "end_point2": "/products",
+  "category": {
+    "parent": "5f413825501ad62957df0ca2",
+    "name": "Home Appliances",
+    "details": "This will have all home appliances"
+  },
+  "category_with_addedBy": {
+    "parent": "5f413825501ad62957df0ca2",
+    "name": "Home Appliances",
+    "details": "This will have all home appliances",
+    "addedBy" : "Akshay"
+  },
+  "category_without_parent": {
+    "name": "Home Appliances",
+    "details": "This will have all home appliances"
+  },
+  "category_without_name": {
+    "parent": "5f413825501ad62957df0ca2",
+    "details": "This will have all home appliances"
+  },
+  "category_without_details": {
+    "parent": "5f413825501ad62957df0ca2",
+    "name": "Home Appliances"
+  },
+  "categoryId": "5ef750fb512a154210ccf90a",
+  "wrong_categoryId": "5ef750fb512a154210ccf90b",
+  "invalid_categoryId": "5ef750fb512a154210ccf90b3",
+  "category_id": {
+    "category_id": "5ef750fb512a154210ccf90a"
+  }
+}

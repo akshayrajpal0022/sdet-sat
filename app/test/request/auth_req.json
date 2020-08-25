@@ -1,0 +1,11 @@
+{
+  "credentials" : {
+    "username" : "satTester",
+    "password" : "satTester@123!"
+  },
+  "invalid_credentials" : {
+    "username" : "satTester",
+    "password" : "satTester@123"
+  },
+  "end_point": "/auth/signin"
+}

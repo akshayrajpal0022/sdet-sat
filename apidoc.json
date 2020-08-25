@@ -1,0 +1,7 @@
+{
+  "name": "HTest API",
+  "version": "1.0.0",
+  "description": "apiDoc HTest",
+  "title": "Custom apiDoc HTest",
+  "url" : "https://api.github.com/v1"
+}

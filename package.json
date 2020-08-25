@@ -1,0 +1,49 @@
+{
+  "name": "product_catalogue",
+  "version": "1.0.0",
+  "description": "RESTfull API",
+  "main": "app/www/index.js",
+  "scripts": {
+    "start": "NODE_ENV=development node app/www/index.js",
+    "test": "mocha  ./app/test/api_tests/*.js --timeout 10000 --reporter mochawesome --reporter-options reportFilename=satApiTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "Heady SDET SAT",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "async": "^2.4.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.1",
+    "connect-multiparty": "^2.0.0",
+    "express": "4.15.2",
+    "geocoder": "^0.2.3",
+    "gulp": "^4.0.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11",
+    "gulp-yaml": "^1.0.1",
+    "helmet": "^3.6.0",
+    "jwt-simple": "^0.5.1",
+    "mongoose": "^5.5.11",
+    "sticky-session": "^1.1.2",
+    "underscore": "^1.8.3",
+    "validator": "^7.2.0"
+  },
+  "devDependencies": {
+    "gulp-watch": "^4.3.11",
+    "gulp-yaml": "^1.0.1",
+    "mocha": "^8.1.1",
+    "chai": "^3.5.0",
+    "chai-http": "^2.0.1",
+    "mochawesome": "^6.1.1",
+    "chai-exclude": "^2.0.2"
+  }
+}

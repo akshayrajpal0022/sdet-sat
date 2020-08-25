@@ -1,0 +1,74 @@
+{
+  "product": {
+    "name": "Boult Speaker",
+    "categories": [
+      "5f413825501ad62957df0ca2"
+    ],
+    "description": "Boult Speaker",
+    "price": 3500
+  },
+  "product_with_rating": {
+    "name": "Boult Speaker",
+    "categories": [
+      "5f413825501ad62957df0ca2"
+    ],
+    "description": "Boult Speaker",
+    "price": 3500,
+    "rating": 10
+  },
+  "product_without_name": {
+    "categories": [
+      "5f413825501ad62957df0ca2"
+    ],
+    "description": "Boult Speaker",
+    "price": 3500
+  },
+  "product_without_category": {
+    "name": "Boult Speaker",
+    "description": "Boult Speaker",
+    "price": 3500
+  },
+  "product_without_category_array": {
+    "name": "Boult Speaker",
+    "categories" : "5f413825501ad62957df0ca2",
+    "description": "Boult Speaker",
+    "price": 3500
+  },
+  "product_without_description": {
+    "name": "Boult Speaker",
+    "categories": [
+      "5f413825501ad62957df0ca2"
+    ],
+    "price": 3500
+  },
+  "product_without_price": {
+    "name": "Boult Speaker",
+    "categories": [
+      "5f413825501ad62957df0ca2"
+    ],
+    "description": "Boult Speaker"
+  },
+  "product_string_price": {
+    "name": "Boult Speaker",
+    "categories": [
+      "5f413825501ad62957df0ca2"
+    ],
+    "description": "Boult Speaker",
+    "price" : "Akshay"
+  },
+  "update_product": {
+    "name": "Jbl Speaker",
+    "categories": [
+      "5f413825501ad62957df0ca2"
+    ],
+    "description": "Jbl bluetooth speaker",
+    "price": 5500
+  },
+  "categoryId": "5ef750fb512a154210ccf90a",
+  "wrong_categoryId": "5ef750fb512a154210ccf90b",
+  "productId": "5ef75995bf576311601a18f0",
+  "wrong_productId": "5ef75995bf576311601a18fd",
+  "end_point1": "/products?category_id=",
+  "end_point2": "/products/",
+  "end_point3": "/products/5f415dbe41f0a54e6cd3637f"
+}

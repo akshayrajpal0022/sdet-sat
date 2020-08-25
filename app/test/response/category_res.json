@@ -1,0 +1,1626 @@
+{
+  "all_categories": {
+    "status": true,
+    "count": 84,
+    "data": [
+      {
+        "_id": "5ef750fb512a154210ccf909",
+        "status": true,
+        "parent": "00000001512a154210ccf908",
+        "name": "Men",
+        "details": "Mens collections",
+        "created_at": "2020-06-27T14:00:27.786Z",
+        "updated_at": "2020-06-27T14:00:27.786Z",
+        "__v": 0,
+        "sub_categories": [
+          {
+            "_id": "5ef750fb512a154210ccf90a",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Men Shoes",
+            "details": "Mens shoes collections",
+            "created_at": "2020-06-27T14:00:27.911Z",
+            "updated_at": "2020-06-27T14:00:27.911Z",
+            "__v": 0
+          },
+          {
+            "_id": "5ef750fc512a154210ccf90d",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Men tshirts",
+            "details": "Mens tshirts collections",
+            "created_at": "2020-06-27T14:00:28.969Z",
+            "updated_at": "2020-06-27T14:00:28.969Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efa4c19ae5dfba9170ae3db",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-29T20:16:25.859Z",
+            "updated_at": "2020-06-29T20:16:25.859Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efa4c57ae5dfba9170ae3dc",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-29T20:17:27.400Z",
+            "updated_at": "2020-06-29T20:17:27.400Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efaf83cae5dfba9170ae3df",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T08:30:52.161Z",
+            "updated_at": "2020-06-30T08:30:52.161Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efaf901ae5dfba9170ae3e0",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T08:34:09.187Z",
+            "updated_at": "2020-06-30T08:34:09.187Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efaf9ebae5dfba9170ae3e1",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T08:38:03.567Z",
+            "updated_at": "2020-06-30T08:38:03.567Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efafdceae5dfba9170ae3e2",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T08:54:38.455Z",
+            "updated_at": "2020-06-30T08:54:38.455Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb0033ae5dfba9170ae3e4",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T09:04:51.567Z",
+            "updated_at": "2020-06-30T09:04:51.567Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb0110ae5dfba9170ae3e6",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T09:08:32.414Z",
+            "updated_at": "2020-06-30T09:08:32.414Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb014fae5dfba9170ae3e8",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T09:09:35.065Z",
+            "updated_at": "2020-06-30T09:09:35.065Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb016eae5dfba9170ae3e9",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T09:10:06.079Z",
+            "updated_at": "2020-06-30T09:10:06.079Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb0a2fae5dfba9170ae3ea",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T09:47:27.593Z",
+            "updated_at": "2020-06-30T09:47:27.594Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb0a56ae5dfba9170ae3ec",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T09:48:06.355Z",
+            "updated_at": "2020-06-30T09:48:06.355Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb1c887150f1def70faaad",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T11:05:44.290Z",
+            "updated_at": "2020-06-30T11:05:44.290Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb1c947150f1def70faaae",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T11:05:56.812Z",
+            "updated_at": "2020-06-30T11:05:56.812Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb1cc37150f1def70faaaf",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T11:06:43.855Z",
+            "updated_at": "2020-06-30T11:06:43.855Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb1cf07150f1def70faab0",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T11:07:28.707Z",
+            "updated_at": "2020-06-30T11:07:28.707Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb1d637150f1def70faab1",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T11:09:23.199Z",
+            "updated_at": "2020-06-30T11:09:23.200Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb1dcd7150f1def70faab2",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T11:11:09.018Z",
+            "updated_at": "2020-06-30T11:11:09.018Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb1df27150f1def70faab3",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T11:11:46.077Z",
+            "updated_at": "2020-06-30T11:11:46.077Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb1ead7150f1def70faab4",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T11:14:53.768Z",
+            "updated_at": "2020-06-30T11:14:53.768Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb1f167150f1def70faab5",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T11:16:38.953Z",
+            "updated_at": "2020-06-30T11:16:38.953Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb1f2d7150f1def70faab6",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T11:17:01.212Z",
+            "updated_at": "2020-06-30T11:17:01.212Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb1f5b7150f1def70faab7",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T11:17:47.516Z",
+            "updated_at": "2020-06-30T11:17:47.516Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb1f6e7150f1def70faab9",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T11:18:06.383Z",
+            "updated_at": "2020-06-30T11:18:06.383Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb20407150f1def70faabb",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T11:21:36.693Z",
+            "updated_at": "2020-06-30T11:21:36.693Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb20707150f1def70faabd",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T11:22:24.431Z",
+            "updated_at": "2020-06-30T11:22:24.431Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb20be7150f1def70faac0",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-06-30T11:23:42.128Z",
+            "updated_at": "2020-06-30T11:23:42.128Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efec5e84fdd7b10a7234ad5",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Indian Wear",
+            "details": "Mens collections india Wear",
+            "created_at": "2020-07-03T05:45:12.796Z",
+            "updated_at": "2020-07-03T05:45:12.796Z",
+            "__v": 0
+          }
+        ]
+      },
+      {
+        "_id": "5ef750fb512a154210ccf90a",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Men Shoes",
+        "details": "Mens shoes collections",
+        "created_at": "2020-06-27T14:00:27.911Z",
+        "updated_at": "2020-06-27T14:00:27.911Z",
+        "__v": 0,
+        "sub_categories": [
+          {
+            "_id": "5ef750fc512a154210ccf90b",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf90a",
+            "name": "Men Sports shoes",
+            "details": "Mens Sports shoes collections",
+            "created_at": "2020-06-27T14:00:28.052Z",
+            "updated_at": "2020-06-27T14:00:28.052Z",
+            "__v": 0
+          }
+        ]
+      },
+      {
+        "_id": "5ef750fc512a154210ccf90b",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf90a",
+        "name": "Men Sports shoes",
+        "details": "Mens Sports shoes collections",
+        "created_at": "2020-06-27T14:00:28.052Z",
+        "updated_at": "2020-06-27T14:00:28.052Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5ef750fc512a154210ccf90d",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Men tshirts",
+        "details": "Mens tshirts collections",
+        "created_at": "2020-06-27T14:00:28.969Z",
+        "updated_at": "2020-06-27T14:00:28.969Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5ef753c7512a154210ccf910",
+        "status": true,
+        "parent": "00000001512a154210ccf90f",
+        "name": "Men",
+        "details": "Mens collections",
+        "created_at": "2020-06-27T14:12:23.305Z",
+        "updated_at": "2020-06-27T14:12:23.305Z",
+        "__v": 0,
+        "sub_categories": [
+          {
+            "_id": "5ef753c7512a154210ccf911",
+            "status": true,
+            "parent": "5ef753c7512a154210ccf910",
+            "name": "Men Shoes",
+            "details": "Mens shoes collections",
+            "created_at": "2020-06-27T14:12:23.757Z",
+            "updated_at": "2020-06-27T14:12:23.757Z",
+            "__v": 0
+          },
+          {
+            "_id": "5ef753c7512a154210ccf912",
+            "status": true,
+            "parent": "5ef753c7512a154210ccf910",
+            "name": "Women's shoes",
+            "details": "Women's shoes collections",
+            "created_at": "2020-06-27T14:12:23.875Z",
+            "updated_at": "2020-06-27T14:12:23.875Z",
+            "__v": 0
+          },
+          {
+            "_id": "5ef753c8512a154210ccf915",
+            "status": true,
+            "parent": "5ef753c7512a154210ccf910",
+            "name": "Men tshirts",
+            "details": "Mens tshirts collections",
+            "created_at": "2020-06-27T14:12:24.859Z",
+            "updated_at": "2020-06-27T14:12:24.859Z",
+            "__v": 0
+          }
+        ]
+      },
+      {
+        "_id": "5ef753c7512a154210ccf911",
+        "status": true,
+        "parent": "5ef753c7512a154210ccf910",
+        "name": "Men Shoes",
+        "details": "Mens shoes collections",
+        "created_at": "2020-06-27T14:12:23.757Z",
+        "updated_at": "2020-06-27T14:12:23.757Z",
+        "__v": 0,
+        "sub_categories": [
+          {
+            "_id": "5ef753c7512a154210ccf913",
+            "status": true,
+            "parent": "5ef753c7512a154210ccf911",
+            "name": "Men Sports shoes",
+            "details": "Mens Sports shoes collections",
+            "created_at": "2020-06-27T14:12:23.967Z",
+            "updated_at": "2020-06-27T14:12:23.967Z",
+            "__v": 0
+          }
+        ]
+      },
+      {
+        "_id": "5ef753c7512a154210ccf912",
+        "status": true,
+        "parent": "5ef753c7512a154210ccf910",
+        "name": "Women's shoes",
+        "details": "Women's shoes collections",
+        "created_at": "2020-06-27T14:12:23.875Z",
+        "updated_at": "2020-06-27T14:12:23.875Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5ef753c7512a154210ccf913",
+        "status": true,
+        "parent": "5ef753c7512a154210ccf911",
+        "name": "Men Sports shoes",
+        "details": "Mens Sports shoes collections",
+        "created_at": "2020-06-27T14:12:23.967Z",
+        "updated_at": "2020-06-27T14:12:23.967Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5ef753c8512a154210ccf915",
+        "status": true,
+        "parent": "5ef753c7512a154210ccf910",
+        "name": "Men tshirts",
+        "details": "Mens tshirts collections",
+        "created_at": "2020-06-27T14:12:24.859Z",
+        "updated_at": "2020-06-27T14:12:24.859Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5ef7575b30390844740ce4ad",
+        "status": true,
+        "parent": "0000000130390844740ce4ac",
+        "name": "Men",
+        "details": "Mens collections",
+        "created_at": "2020-06-27T14:27:39.170Z",
+        "updated_at": "2020-06-27T14:27:39.171Z",
+        "__v": 0,
+        "sub_categories": [
+          {
+            "_id": "5ef7575b30390844740ce4ae",
+            "status": true,
+            "parent": "5ef7575b30390844740ce4ad",
+            "name": "Men Shoes",
+            "details": "Mens shoes collections",
+            "created_at": "2020-06-27T14:27:39.315Z",
+            "updated_at": "2020-06-27T14:27:39.315Z",
+            "__v": 0
+          },
+          {
+            "_id": "5ef7575b30390844740ce4af",
+            "status": true,
+            "parent": "5ef7575b30390844740ce4ad",
+            "name": "Women's shoes",
+            "details": "Women's shoes collections",
+            "created_at": "2020-06-27T14:27:39.414Z",
+            "updated_at": "2020-06-27T14:27:39.414Z",
+            "__v": 0
+          },
+          {
+            "_id": "5ef7575c30390844740ce4b2",
+            "status": true,
+            "parent": "5ef7575b30390844740ce4ad",
+            "name": "Men tshirts",
+            "details": "Mens tshirts collections",
+            "created_at": "2020-06-27T14:27:40.454Z",
+            "updated_at": "2020-06-27T14:27:40.454Z",
+            "__v": 0
+          }
+        ]
+      },
+      {
+        "_id": "5ef7575b30390844740ce4ae",
+        "status": true,
+        "parent": "5ef7575b30390844740ce4ad",
+        "name": "Men Shoes",
+        "details": "Mens shoes collections",
+        "created_at": "2020-06-27T14:27:39.315Z",
+        "updated_at": "2020-06-27T14:27:39.315Z",
+        "__v": 0,
+        "sub_categories": [
+          {
+            "_id": "5ef7575b30390844740ce4b0",
+            "status": true,
+            "parent": "5ef7575b30390844740ce4ae",
+            "name": "Men Sports shoes",
+            "details": "Mens Sports shoes collections",
+            "created_at": "2020-06-27T14:27:39.540Z",
+            "updated_at": "2020-06-27T14:27:39.540Z",
+            "__v": 0
+          }
+        ]
+      },
+      {
+        "_id": "5ef7575b30390844740ce4af",
+        "status": true,
+        "parent": "5ef7575b30390844740ce4ad",
+        "name": "Women's shoes",
+        "details": "Women's shoes collections",
+        "created_at": "2020-06-27T14:27:39.414Z",
+        "updated_at": "2020-06-27T14:27:39.414Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5ef7575b30390844740ce4b0",
+        "status": true,
+        "parent": "5ef7575b30390844740ce4ae",
+        "name": "Men Sports shoes",
+        "details": "Mens Sports shoes collections",
+        "created_at": "2020-06-27T14:27:39.540Z",
+        "updated_at": "2020-06-27T14:27:39.540Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5ef7575c30390844740ce4b2",
+        "status": true,
+        "parent": "5ef7575b30390844740ce4ad",
+        "name": "Men tshirts",
+        "details": "Mens tshirts collections",
+        "created_at": "2020-06-27T14:27:40.454Z",
+        "updated_at": "2020-06-27T14:27:40.454Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5ef75994bf576311601a18ec",
+        "status": true,
+        "parent": "00000001bf576311601a18eb",
+        "name": "Men",
+        "details": "Mens collections",
+        "created_at": "2020-06-27T14:37:08.097Z",
+        "updated_at": "2020-06-27T14:37:08.098Z",
+        "__v": 0,
+        "sub_categories": [
+          {
+            "_id": "5ef75994bf576311601a18ed",
+            "status": true,
+            "parent": "5ef75994bf576311601a18ec",
+            "name": "Men Shoes",
+            "details": "Mens shoes collections",
+            "created_at": "2020-06-27T14:37:08.252Z",
+            "updated_at": "2020-06-27T14:37:08.252Z",
+            "__v": 0
+          },
+          {
+            "_id": "5ef75994bf576311601a18ee",
+            "status": true,
+            "parent": "5ef75994bf576311601a18ec",
+            "name": "Women's shoes",
+            "details": "Women's shoes collections",
+            "created_at": "2020-06-27T14:37:08.371Z",
+            "updated_at": "2020-06-27T14:37:08.371Z",
+            "__v": 0
+          },
+          {
+            "_id": "5ef75995bf576311601a18f1",
+            "status": true,
+            "parent": "5ef75994bf576311601a18ec",
+            "name": "Men tshirts",
+            "details": "Mens tshirts collections",
+            "created_at": "2020-06-27T14:37:09.449Z",
+            "updated_at": "2020-06-27T14:37:09.449Z",
+            "__v": 0
+          }
+        ]
+      },
+      {
+        "_id": "5ef75994bf576311601a18ed",
+        "status": true,
+        "parent": "5ef75994bf576311601a18ec",
+        "name": "Men Shoes",
+        "details": "Mens shoes collections",
+        "created_at": "2020-06-27T14:37:08.252Z",
+        "updated_at": "2020-06-27T14:37:08.252Z",
+        "__v": 0,
+        "sub_categories": [
+          {
+            "_id": "5ef75994bf576311601a18ef",
+            "status": true,
+            "parent": "5ef75994bf576311601a18ed",
+            "name": "Men Sports shoes",
+            "details": "Mens Sports shoes collections",
+            "created_at": "2020-06-27T14:37:08.489Z",
+            "updated_at": "2020-06-27T14:37:08.489Z",
+            "__v": 0
+          }
+        ]
+      },
+      {
+        "_id": "5ef75994bf576311601a18ee",
+        "status": true,
+        "parent": "5ef75994bf576311601a18ec",
+        "name": "Women's shoes",
+        "details": "Women's shoes collections",
+        "created_at": "2020-06-27T14:37:08.371Z",
+        "updated_at": "2020-06-27T14:37:08.371Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5ef75994bf576311601a18ef",
+        "status": true,
+        "parent": "5ef75994bf576311601a18ed",
+        "name": "Men Sports shoes",
+        "details": "Mens Sports shoes collections",
+        "created_at": "2020-06-27T14:37:08.489Z",
+        "updated_at": "2020-06-27T14:37:08.489Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5ef75995bf576311601a18f1",
+        "status": true,
+        "parent": "5ef75994bf576311601a18ec",
+        "name": "Men tshirts",
+        "details": "Mens tshirts collections",
+        "created_at": "2020-06-27T14:37:09.449Z",
+        "updated_at": "2020-06-27T14:37:09.449Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5ef8d86426d6cc1dead823f4",
+        "status": true,
+        "parent": "00000001512a154210ccf908",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-28T17:50:28.789Z",
+        "updated_at": "2020-06-28T17:50:28.789Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5ef8dcc726d6cc1dead823f5",
+        "status": true,
+        "parent": "00000001512a154210ccf908",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-28T18:09:11.630Z",
+        "updated_at": "2020-06-28T18:09:11.630Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5ef8e678a467c6268726c006",
+        "status": true,
+        "parent": "00000001512a154210ccf908",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-28T18:50:32.663Z",
+        "updated_at": "2020-06-28T18:50:32.664Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efa4112799840a913938afe",
+        "status": true,
+        "parent": "00000001512a154210ccf908",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-29T19:29:22.521Z",
+        "updated_at": "2020-06-29T19:29:22.522Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efa44be799840a913938aff",
+        "status": true,
+        "parent": "00000001512a154210ccf908",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-29T19:45:02.475Z",
+        "updated_at": "2020-06-29T19:45:02.475Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efa45fcae5dfba9170ae3d3",
+        "status": true,
+        "parent": "00000001512a154210ccf908",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-29T19:50:20.215Z",
+        "updated_at": "2020-06-29T19:50:20.217Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efa460dae5dfba9170ae3d4",
+        "status": true,
+        "parent": "00000001512a154210ccf908",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-29T19:50:37.393Z",
+        "updated_at": "2020-06-29T19:50:37.393Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efa4812ae5dfba9170ae3d5",
+        "status": true,
+        "parent": "00000001512a154210ccf908",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-29T19:59:14.229Z",
+        "updated_at": "2020-06-29T19:59:14.229Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efa4929ae5dfba9170ae3d6",
+        "status": true,
+        "parent": "00000001512a154210ccf908",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-29T20:03:53.820Z",
+        "updated_at": "2020-06-29T20:03:53.820Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efa496eae5dfba9170ae3d7",
+        "status": true,
+        "parent": "00000001512a154210ccf908",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-29T20:05:02.117Z",
+        "updated_at": "2020-06-29T20:05:02.117Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efa4997ae5dfba9170ae3d8",
+        "status": true,
+        "parent": "00000001512a154210ccf908",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-29T20:05:43.627Z",
+        "updated_at": "2020-06-29T20:05:43.627Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efa4a72ae5dfba9170ae3d9",
+        "status": true,
+        "parent": "00000001512a154210ccf908",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-29T20:09:22.222Z",
+        "updated_at": "2020-06-29T20:09:22.222Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efa4afcae5dfba9170ae3da",
+        "status": true,
+        "parent": "00000001512a154210ccf908",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-29T20:11:40.433Z",
+        "updated_at": "2020-06-29T20:11:40.433Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efa4bdd799840a913938b00",
+        "status": true,
+        "parent": "00000001512a154210ccf908",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-29T20:15:25.735Z",
+        "updated_at": "2020-06-29T20:15:25.735Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efa4c19ae5dfba9170ae3db",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-29T20:16:25.859Z",
+        "updated_at": "2020-06-29T20:16:25.859Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efa4c57ae5dfba9170ae3dc",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-29T20:17:27.400Z",
+        "updated_at": "2020-06-29T20:17:27.400Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efaf83cae5dfba9170ae3df",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T08:30:52.161Z",
+        "updated_at": "2020-06-30T08:30:52.161Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efaf901ae5dfba9170ae3e0",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T08:34:09.187Z",
+        "updated_at": "2020-06-30T08:34:09.187Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efaf9ebae5dfba9170ae3e1",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T08:38:03.567Z",
+        "updated_at": "2020-06-30T08:38:03.567Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efafdceae5dfba9170ae3e2",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T08:54:38.455Z",
+        "updated_at": "2020-06-30T08:54:38.455Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb0033ae5dfba9170ae3e4",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T09:04:51.567Z",
+        "updated_at": "2020-06-30T09:04:51.567Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb0110ae5dfba9170ae3e6",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T09:08:32.414Z",
+        "updated_at": "2020-06-30T09:08:32.414Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb014fae5dfba9170ae3e8",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T09:09:35.065Z",
+        "updated_at": "2020-06-30T09:09:35.065Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb016eae5dfba9170ae3e9",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T09:10:06.079Z",
+        "updated_at": "2020-06-30T09:10:06.079Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb0a2fae5dfba9170ae3ea",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T09:47:27.593Z",
+        "updated_at": "2020-06-30T09:47:27.594Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb0a56ae5dfba9170ae3ec",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T09:48:06.355Z",
+        "updated_at": "2020-06-30T09:48:06.355Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb1271bdd1460994de014a",
+        "status": true,
+        "parent": "00000001bdd1460994de0149",
+        "name": "Men",
+        "details": "Mens collections",
+        "created_at": "2020-06-30T10:22:41.546Z",
+        "updated_at": "2020-06-30T10:22:41.546Z",
+        "__v": 0,
+        "sub_categories": [
+          {
+            "_id": "5efb1271bdd1460994de014b",
+            "status": true,
+            "parent": "5efb1271bdd1460994de014a",
+            "name": "Men Shoes",
+            "details": "Mens shoes collections",
+            "created_at": "2020-06-30T10:22:41.751Z",
+            "updated_at": "2020-06-30T10:22:41.751Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb1271bdd1460994de014c",
+            "status": true,
+            "parent": "5efb1271bdd1460994de014a",
+            "name": "Women's shoes",
+            "details": "Women's shoes collections",
+            "created_at": "2020-06-30T10:22:41.933Z",
+            "updated_at": "2020-06-30T10:22:41.933Z",
+            "__v": 0
+          },
+          {
+            "_id": "5efb1273bdd1460994de014f",
+            "status": true,
+            "parent": "5efb1271bdd1460994de014a",
+            "name": "Men tshirts",
+            "details": "Mens tshirts collections",
+            "created_at": "2020-06-30T10:22:43.483Z",
+            "updated_at": "2020-06-30T10:22:43.483Z",
+            "__v": 0
+          }
+        ]
+      },
+      {
+        "_id": "5efb1271bdd1460994de014b",
+        "status": true,
+        "parent": "5efb1271bdd1460994de014a",
+        "name": "Men Shoes",
+        "details": "Mens shoes collections",
+        "created_at": "2020-06-30T10:22:41.751Z",
+        "updated_at": "2020-06-30T10:22:41.751Z",
+        "__v": 0,
+        "sub_categories": [
+          {
+            "_id": "5efb1272bdd1460994de014d",
+            "status": true,
+            "parent": "5efb1271bdd1460994de014b",
+            "name": "Men Sports shoes",
+            "details": "Mens Sports shoes collections",
+            "created_at": "2020-06-30T10:22:42.093Z",
+            "updated_at": "2020-06-30T10:22:42.093Z",
+            "__v": 0
+          }
+        ]
+      },
+      {
+        "_id": "5efb1271bdd1460994de014c",
+        "status": true,
+        "parent": "5efb1271bdd1460994de014a",
+        "name": "Women's shoes",
+        "details": "Women's shoes collections",
+        "created_at": "2020-06-30T10:22:41.933Z",
+        "updated_at": "2020-06-30T10:22:41.933Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb1272bdd1460994de014d",
+        "status": true,
+        "parent": "5efb1271bdd1460994de014b",
+        "name": "Men Sports shoes",
+        "details": "Mens Sports shoes collections",
+        "created_at": "2020-06-30T10:22:42.093Z",
+        "updated_at": "2020-06-30T10:22:42.093Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb1273bdd1460994de014f",
+        "status": true,
+        "parent": "5efb1271bdd1460994de014a",
+        "name": "Men tshirts",
+        "details": "Mens tshirts collections",
+        "created_at": "2020-06-30T10:22:43.483Z",
+        "updated_at": "2020-06-30T10:22:43.483Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb1c887150f1def70faaad",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T11:05:44.290Z",
+        "updated_at": "2020-06-30T11:05:44.290Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb1c947150f1def70faaae",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T11:05:56.812Z",
+        "updated_at": "2020-06-30T11:05:56.812Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb1cc37150f1def70faaaf",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T11:06:43.855Z",
+        "updated_at": "2020-06-30T11:06:43.855Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb1cf07150f1def70faab0",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T11:07:28.707Z",
+        "updated_at": "2020-06-30T11:07:28.707Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb1d637150f1def70faab1",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T11:09:23.199Z",
+        "updated_at": "2020-06-30T11:09:23.200Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb1dcd7150f1def70faab2",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T11:11:09.018Z",
+        "updated_at": "2020-06-30T11:11:09.018Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb1df27150f1def70faab3",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T11:11:46.077Z",
+        "updated_at": "2020-06-30T11:11:46.077Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb1ead7150f1def70faab4",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T11:14:53.768Z",
+        "updated_at": "2020-06-30T11:14:53.768Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb1f167150f1def70faab5",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T11:16:38.953Z",
+        "updated_at": "2020-06-30T11:16:38.953Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb1f2d7150f1def70faab6",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T11:17:01.212Z",
+        "updated_at": "2020-06-30T11:17:01.212Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb1f5b7150f1def70faab7",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T11:17:47.516Z",
+        "updated_at": "2020-06-30T11:17:47.516Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb1f6e7150f1def70faab9",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T11:18:06.383Z",
+        "updated_at": "2020-06-30T11:18:06.383Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb20407150f1def70faabb",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T11:21:36.693Z",
+        "updated_at": "2020-06-30T11:21:36.693Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb20707150f1def70faabd",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T11:22:24.431Z",
+        "updated_at": "2020-06-30T11:22:24.431Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efb20be7150f1def70faac0",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-06-30T11:23:42.128Z",
+        "updated_at": "2020-06-30T11:23:42.128Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5efec5e84fdd7b10a7234ad5",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Indian Wear",
+        "details": "Mens collections india Wear",
+        "created_at": "2020-07-03T05:45:12.796Z",
+        "updated_at": "2020-07-03T05:45:12.796Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f40146c75366f4d63677a77",
+        "status": true,
+        "parent": "5eb572f950caeb3b9715f300",
+        "name": "Mobile",
+        "details": "This will have mobiles",
+        "created_at": "2020-08-21T18:37:32.513Z",
+        "updated_at": "2020-08-21T18:37:32.513Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f40158c75366f4d63677a78",
+        "status": true,
+        "parent": "5eb572f950caeb3b9715f300",
+        "name": "Mobile",
+        "details": "This will have mobiles",
+        "created_at": "2020-08-21T18:42:20.772Z",
+        "updated_at": "2020-08-21T18:42:20.772Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f4133462e5f802964ba4cf3",
+        "status": true,
+        "parent": "5eb572f950caeb3b9715f200",
+        "name": "Tv",
+        "details": "This will have all Tv",
+        "created_at": "2020-08-22T15:01:26.369Z",
+        "updated_at": "2020-08-22T15:01:26.369Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f413825501ad62957df0ca2",
+        "status": true,
+        "parent": "5eb572f950caeb3b9715f100",
+        "name": "Electronics",
+        "details": "This will have mobiles",
+        "created_at": "2020-08-22T15:22:13.347Z",
+        "updated_at": "2020-08-22T15:22:13.347Z",
+        "__v": 0,
+        "sub_categories": [
+          {
+            "_id": "5f4138cf2e5f802964ba4cf4",
+            "status": true,
+            "parent": "5f413825501ad62957df0ca2",
+            "name": "Laptop",
+            "details": "This will have all Laptop",
+            "created_at": "2020-08-22T15:25:03.361Z",
+            "updated_at": "2020-08-22T15:25:03.361Z",
+            "__v": 0
+          },
+          {
+            "_id": "5f4220c8581acb5d31e59834",
+            "status": true,
+            "parent": "5f413825501ad62957df0ca2",
+            "name": "Home Appliances",
+            "details": "This will have all home appliances",
+            "created_at": "2020-08-23T07:54:48.562Z",
+            "updated_at": "2020-08-23T07:54:48.562Z",
+            "__v": 0
+          },
+          {
+            "_id": "5f4221b6581acb5d31e59835",
+            "status": true,
+            "parent": "5f413825501ad62957df0ca2",
+            "name": "Home Appliances",
+            "details": "This will have all home appliances",
+            "created_at": "2020-08-23T07:58:46.551Z",
+            "updated_at": "2020-08-23T07:58:46.551Z",
+            "__v": 0
+          },
+          {
+            "_id": "5f4222592b139a5d24b42c9b",
+            "status": true,
+            "parent": "5f413825501ad62957df0ca2",
+            "name": "Home Appliances",
+            "details": "This will have all home appliances",
+            "created_at": "2020-08-23T08:01:29.704Z",
+            "updated_at": "2020-08-23T08:01:29.704Z",
+            "__v": 0
+          },
+          {
+            "_id": "5f4222622b139a5d24b42c9c",
+            "status": true,
+            "parent": "5f413825501ad62957df0ca2",
+            "name": "Home Appliances",
+            "details": "This will have all home appliances",
+            "created_at": "2020-08-23T08:01:38.461Z",
+            "updated_at": "2020-08-23T08:01:38.461Z",
+            "__v": 0
+          },
+          {
+            "_id": "5f4240c0ae23d512f3917a69",
+            "status": true,
+            "parent": "5f413825501ad62957df0ca2",
+            "name": "Home Appliances",
+            "details": "This will have all home appliances",
+            "created_at": "2020-08-23T10:11:12.747Z",
+            "updated_at": "2020-08-23T10:11:12.747Z",
+            "__v": 0
+          },
+          {
+            "_id": "5f4240cdae23d512f3917a6b",
+            "status": true,
+            "parent": "5f413825501ad62957df0ca2",
+            "name": "Home Appliances",
+            "details": "This will have all home appliances",
+            "created_at": "2020-08-23T10:11:25.636Z",
+            "updated_at": "2020-08-23T10:11:25.636Z",
+            "__v": 0
+          },
+          {
+            "_id": "5f4240dbae23d512f3917a6d",
+            "status": true,
+            "parent": "5f413825501ad62957df0ca2",
+            "name": "Home Appliances",
+            "details": "This will have all home appliances",
+            "created_at": "2020-08-23T10:11:39.095Z",
+            "updated_at": "2020-08-23T10:11:39.095Z",
+            "__v": 0
+          },
+          {
+            "_id": "5f42434cae23d512f3917a6f",
+            "status": true,
+            "parent": "5f413825501ad62957df0ca2",
+            "name": "Home Appliances",
+            "details": "This will have all home appliances",
+            "created_at": "2020-08-23T10:22:04.736Z",
+            "updated_at": "2020-08-23T10:22:04.736Z",
+            "__v": 0
+          },
+          {
+            "_id": "5f429c29b90fa82abe839381",
+            "status": true,
+            "parent": "5f413825501ad62957df0ca2",
+            "name": "Home Appliances",
+            "details": "This will have all home appliances",
+            "created_at": "2020-08-23T16:41:13.733Z",
+            "updated_at": "2020-08-23T16:41:13.733Z",
+            "__v": 0
+          },
+          {
+            "_id": "5f43fa832dc50425e3bd898d",
+            "status": true,
+            "parent": "5f413825501ad62957df0ca2",
+            "name": "Home Appliances",
+            "details": "This will have all home appliances",
+            "created_at": "2020-08-24T17:36:03.511Z",
+            "updated_at": "2020-08-24T17:36:03.511Z",
+            "__v": 0
+          },
+          {
+            "_id": "5f43fde72dc50425e3bd8992",
+            "status": true,
+            "parent": "5f413825501ad62957df0ca2",
+            "name": "Home Appliances",
+            "details": "This will have all home appliances",
+            "created_at": "2020-08-24T17:50:31.696Z",
+            "updated_at": "2020-08-24T17:50:31.696Z",
+            "__v": 0
+          },
+          {
+            "_id": "5f43fe062dc50425e3bd8993",
+            "status": true,
+            "parent": "5f413825501ad62957df0ca2",
+            "name": "Home Appliances",
+            "details": "This will have all home appliances",
+            "created_at": "2020-08-24T17:51:02.529Z",
+            "updated_at": "2020-08-24T17:51:02.529Z",
+            "__v": 0
+          },
+          {
+            "_id": "5f43fe062dc50425e3bd8994",
+            "status": true,
+            "parent": "5f413825501ad62957df0ca2",
+            "name": "Home Appliances",
+            "details": "This will have all home appliances",
+            "created_at": "2020-08-24T17:51:02.580Z",
+            "updated_at": "2020-08-24T17:51:02.580Z",
+            "__v": 0
+          }
+        ]
+      },
+      {
+        "_id": "5f4138cf2e5f802964ba4cf4",
+        "status": true,
+        "parent": "5f413825501ad62957df0ca2",
+        "name": "Laptop",
+        "details": "This will have all Laptop",
+        "created_at": "2020-08-22T15:25:03.361Z",
+        "updated_at": "2020-08-22T15:25:03.361Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f4220c8581acb5d31e59834",
+        "status": true,
+        "parent": "5f413825501ad62957df0ca2",
+        "name": "Home Appliances",
+        "details": "This will have all home appliances",
+        "created_at": "2020-08-23T07:54:48.562Z",
+        "updated_at": "2020-08-23T07:54:48.562Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f4221b6581acb5d31e59835",
+        "status": true,
+        "parent": "5f413825501ad62957df0ca2",
+        "name": "Home Appliances",
+        "details": "This will have all home appliances",
+        "created_at": "2020-08-23T07:58:46.551Z",
+        "updated_at": "2020-08-23T07:58:46.551Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f4222592b139a5d24b42c9b",
+        "status": true,
+        "parent": "5f413825501ad62957df0ca2",
+        "name": "Home Appliances",
+        "details": "This will have all home appliances",
+        "created_at": "2020-08-23T08:01:29.704Z",
+        "updated_at": "2020-08-23T08:01:29.704Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f4222622b139a5d24b42c9c",
+        "status": true,
+        "parent": "5f413825501ad62957df0ca2",
+        "name": "Home Appliances",
+        "details": "This will have all home appliances",
+        "created_at": "2020-08-23T08:01:38.461Z",
+        "updated_at": "2020-08-23T08:01:38.461Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f4240c0ae23d512f3917a69",
+        "status": true,
+        "parent": "5f413825501ad62957df0ca2",
+        "name": "Home Appliances",
+        "details": "This will have all home appliances",
+        "created_at": "2020-08-23T10:11:12.747Z",
+        "updated_at": "2020-08-23T10:11:12.747Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f4240cdae23d512f3917a6b",
+        "status": true,
+        "parent": "5f413825501ad62957df0ca2",
+        "name": "Home Appliances",
+        "details": "This will have all home appliances",
+        "created_at": "2020-08-23T10:11:25.636Z",
+        "updated_at": "2020-08-23T10:11:25.636Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f4240dbae23d512f3917a6d",
+        "status": true,
+        "parent": "5f413825501ad62957df0ca2",
+        "name": "Home Appliances",
+        "details": "This will have all home appliances",
+        "created_at": "2020-08-23T10:11:39.095Z",
+        "updated_at": "2020-08-23T10:11:39.095Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f42434cae23d512f3917a6f",
+        "status": true,
+        "parent": "5f413825501ad62957df0ca2",
+        "name": "Home Appliances",
+        "details": "This will have all home appliances",
+        "created_at": "2020-08-23T10:22:04.736Z",
+        "updated_at": "2020-08-23T10:22:04.736Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f429c29b90fa82abe839381",
+        "status": true,
+        "parent": "5f413825501ad62957df0ca2",
+        "name": "Home Appliances",
+        "details": "This will have all home appliances",
+        "created_at": "2020-08-23T16:41:13.733Z",
+        "updated_at": "2020-08-23T16:41:13.733Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f43fa832dc50425e3bd898d",
+        "status": true,
+        "parent": "5f413825501ad62957df0ca2",
+        "name": "Home Appliances",
+        "details": "This will have all home appliances",
+        "created_at": "2020-08-24T17:36:03.511Z",
+        "updated_at": "2020-08-24T17:36:03.511Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f43fde72dc50425e3bd8992",
+        "status": true,
+        "parent": "5f413825501ad62957df0ca2",
+        "name": "Home Appliances",
+        "details": "This will have all home appliances",
+        "created_at": "2020-08-24T17:50:31.696Z",
+        "updated_at": "2020-08-24T17:50:31.696Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f43fe062dc50425e3bd8993",
+        "status": true,
+        "parent": "5f413825501ad62957df0ca2",
+        "name": "Home Appliances",
+        "details": "This will have all home appliances",
+        "created_at": "2020-08-24T17:51:02.529Z",
+        "updated_at": "2020-08-24T17:51:02.529Z",
+        "__v": 0,
+        "sub_categories": []
+      },
+      {
+        "_id": "5f43fe062dc50425e3bd8994",
+        "status": true,
+        "parent": "5f413825501ad62957df0ca2",
+        "name": "Home Appliances",
+        "details": "This will have all home appliances",
+        "created_at": "2020-08-24T17:51:02.580Z",
+        "updated_at": "2020-08-24T17:51:02.580Z",
+        "__v": 0,
+        "sub_categories": []
+      }
+    ],
+    "error": []
+  },
+  "create_category": {
+    "parent": "5f413825501ad62957df0ca2",
+    "name": "Home Appliances",
+    "details": "This will have all home appliances"
+  },
+  "category": {
+    "status": true,
+    "count": 1,
+    "data": [
+      {
+        "_id": "5ef750fb512a154210ccf90a",
+        "status": true,
+        "parent": "5ef750fb512a154210ccf909",
+        "name": "Men Shoes",
+        "details": "Mens shoes collections",
+        "created_at": "2020-06-27T14:00:27.911Z",
+        "updated_at": "2020-06-27T14:00:27.911Z",
+        "__v": 0,
+        "sub_categories": [
+          {
+            "_id": "5ef750fc512a154210ccf90b",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf90a",
+            "name": "Men Sports shoes",
+            "details": "Mens Sports shoes collections",
+            "created_at": "2020-06-27T14:00:28.052Z",
+            "updated_at": "2020-06-27T14:00:28.052Z",
+            "__v": 0
+          }
+        ]
+      }
+    ],
+    "error": []
+  },
+  "products": {
+    "status": true,
+    "count": 1,
+    "data": [
+      {
+        "_id": "5ef750fd512a154210ccf90e",
+        "name": "HRK shoes",
+        "categories": [
+          "5ef750fb512a154210ccf90a"
+        ],
+        "categoryObject": [
+          {
+            "_id": "5ef750fb512a154210ccf90a",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Men Shoes",
+            "details": "Mens shoes collections",
+            "created_at": "2020-06-27T14:00:27.911Z",
+            "updated_at": "2020-06-27T14:00:27.911Z",
+            "__v": 0
+          }
+        ],
+        "description": "HRK shoes",
+        "price": 3500
+      }
+    ],
+    "error": []
+  },
+  "error_message": "Cast to ObjectId failed for value \"5ef750fb512a154210ccf90b3\" at path \"_id\" for model \"categories\"",
+  "error_message_parent": [
+    "Parent category is missing."
+  ],
+  "error_message_name": [
+    "Category name is missing."
+  ],
+  "error_message_details": [
+    "Category details is missing."
+  ]
+}

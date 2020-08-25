@@ -1,0 +1,97 @@
+{
+  "category_products": {
+    "status": true,
+    "count": 1,
+    "data": [
+      {
+        "_id": "5ef750fd512a154210ccf90e",
+        "name": "HRK shoes",
+        "categories": [
+          "5ef750fb512a154210ccf90a"
+        ],
+        "categoryObject": [
+          {
+            "_id": "5ef750fb512a154210ccf90a",
+            "status": true,
+            "parent": "5ef750fb512a154210ccf909",
+            "name": "Men Shoes",
+            "details": "Mens shoes collections",
+            "created_at": "2020-06-27T14:00:27.911Z",
+            "updated_at": "2020-06-27T14:00:27.911Z",
+            "__v": 0
+          }
+        ],
+        "description": "HRK shoes",
+        "price": 3500
+      }
+    ],
+    "error": []
+  },
+  "create_product": {
+    "name": "Boult Speaker",
+    "categories": [
+      "5f413825501ad62957df0ca2"
+    ],
+    "description": "Boult Speaker",
+    "price": 3500
+  },
+  "product": {
+    "status": true,
+    "count": 1,
+    "data": [
+      {
+        "_id": "5ef75995bf576311601a18f0",
+        "name": "nike shoes",
+        "categories": [
+          "5ef75994bf576311601a18ed",
+          "5ef75994bf576311601a18ee"
+        ],
+        "categoryObject": [
+          {
+            "_id": "5ef75994bf576311601a18ed",
+            "status": true,
+            "parent": "5ef75994bf576311601a18ec",
+            "name": "Men Shoes",
+            "details": "Mens shoes collections",
+            "created_at": "2020-06-27T14:37:08.252Z",
+            "updated_at": "2020-06-27T14:37:08.252Z",
+            "__v": 0
+          },
+          {
+            "_id": "5ef75994bf576311601a18ee",
+            "status": true,
+            "parent": "5ef75994bf576311601a18ec",
+            "name": "Women's shoes",
+            "details": "Women's shoes collections",
+            "created_at": "2020-06-27T14:37:08.371Z",
+            "updated_at": "2020-06-27T14:37:08.371Z",
+            "__v": 0
+          }
+        ],
+        "description": "nike shoes",
+        "price": 5000
+      }
+    ],
+    "error": []
+  },
+  "new_product": {
+    "categories": [
+      "5f413825501ad62957df0ca2"
+    ],
+    "name": "Boult Speaker",
+    "description": "Boult Speaker",
+    "price": 3500
+  },
+  "error_message_name" : [
+    "Name is missing."
+  ],
+  "error_message_category" : [
+    "Categories should be array of categories."
+  ],
+  "error_message_description" : [
+    "Description is missing."
+  ],
+  "error_message_price" : [
+    "Price should be number."
+  ]
+}

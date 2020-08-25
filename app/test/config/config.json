@@ -1,0 +1,4 @@
+{
+  "base_url" : "http://localhost:3000/v1",
+  "token" : "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.IjVlYjU3MmY5NTBjYWViM2I5NzE1ZjMwMF9TYXQgQXVnIDIyIDIwMjAgMTU6NDU6MTIgR01UKzA1MzAgKEluZGlhIFN0YW5kYXJkIFRpbWUpIg.fqDPx7z1847prAWyERUY2RtzqS3eftNoBteh4Uk5Rhc"
+}
